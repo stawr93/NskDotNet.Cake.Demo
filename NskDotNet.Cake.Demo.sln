@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NskDotNet.Cake.Demo", "NskDotNet.Cake.Demo\NskDotNet.Cake.Demo.csproj", "{5F071CF8-7AE7-4FE9-A96B-FC0FC4BEADCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F071CF8-7AE7-4FE9-A96B-FC0FC4BEADCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F071CF8-7AE7-4FE9-A96B-FC0FC4BEADCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F071CF8-7AE7-4FE9-A96B-FC0FC4BEADCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F071CF8-7AE7-4FE9-A96B-FC0FC4BEADCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
